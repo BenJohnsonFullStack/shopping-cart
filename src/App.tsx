@@ -1,5 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import { Container } from "react-bootstrap";
+import { Home, About, Store } from "./pages";
 
 function App() {
   return (
